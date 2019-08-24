@@ -13,8 +13,9 @@ School of Data & Computer Science
 Sun Yat-Sen university
 
 ## About Me 
-I am a undergraduate student in [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) at [Sun Yat-Sen university](http://www.sysu.edu.cn/2012/en/index.htm). Currently I'm working with Prof. [Xiaodan Liang](https://lemondan.github.io/). My research interests lie in the field of Computer Vision and Deep Learning. I'm now researching on the area of Image Segmentation and AutoML for deep learning. 
-Previously, I've worked with Prof. [Zhuo Su](https://suzhuoi.github.io) in SYSU.
+I am a undergraduate student in [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) at [Sun Yat-Sen university](http://www.sysu.edu.cn/2012/en/index.htm). Currently I'm working with Prof. [Xiaodan Liang](https://lemondan.github.io/) in SYSU from May 2019. Before that, I've worked with Prof. [Zhuo Su](https://suzhuoi.github.io).  
+My research interests lie in the field of Computer Vision and Deep Learning. I'm now researching on the area of Image Segmentation, object detection and AutoML for deep learning. 
+
 
 ## Research Interest
 * Computer Vision
