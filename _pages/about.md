@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Graduated Student  
+Undergraduated
 School of Data & Computer Science  
 Sun Yat-Sen university
 
