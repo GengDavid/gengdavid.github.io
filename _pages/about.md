@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Bachelor 
+B.E.  
 School of Data & Computer Science  
 Sun Yat-Sen university
 
 ## About Me 
-I am a graduate student in [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) at [Sun Yat-Sen university](http://www.sysu.edu.cn/2012/en/index.htm). Currently I'm working with Prof. [Xiaodan Liang](https://lemondan.github.io/) in Sun Yat-sen University. Previously, I've worked with Prof. [Zhuo Su](https://suzhuoi.github.io).  
+I am a research assistant in [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) at [Sun Yat-Sen university](http://www.sysu.edu.cn/2012/en/index.htm). Currently I'm working with Prof. [Xiaodan Liang](https://lemondan.github.io/) in Sun Yat-sen University. Previously, I've worked with Prof. [Zhuo Su](https://suzhuoi.github.io) during my undergraduate study.  
 My research interests lie in the field of Computer Vision and Deep Learning. I'm now researching on the area of scene understanding and AutoML for deep learning. 
 
 ## Research Interest
