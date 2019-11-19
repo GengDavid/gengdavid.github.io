@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-B.E.  
+B.E. at  
 School of Data & Computer Science  
 Sun Yat-Sen university
 
@@ -24,7 +24,7 @@ My research interests lie in the field of Computer Vision and Deep Learning. I'm
 
 ## Projects
 * PyTorch-cpn
-  * An implementation of CVPR 2018 paper <em>Cascaded Pyramid Network for Multi-Person Pose Estimation</em>. <a href="https://github.com/GengDavid/pytorch-cpn">GitHub</a> <b>290 stars</b>.
+  * An implementation of CVPR 2018 paper <em>Cascaded Pyramid Network for Multi-Person Pose Estimation</em>. <a href="https://github.com/GengDavid/pytorch-cpn">GitHub</a> <b>315 stars</b>.
 
 ## Publications 
 {% include base_path %}
