@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme 
 title: [Gengwei Zhang]
 description: [张耕维]
+google_analytics: [300161146]
