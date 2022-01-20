@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Gengwei Zhang (David)
-<img align="left" width="100" height="115" src="zgw_pic.png" style="vertical-align:middle;margin:0px 50px 10px 0px">  
+<img align="left" width="100" height="115" src="zgw_pic.png" style="10px 20px 0px 10px">  
 
  Ph.D. student  
  Faculty of Engineering & IT  
