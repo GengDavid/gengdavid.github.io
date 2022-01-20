@@ -3,7 +3,8 @@ layout: default
 ---
 
 # Gengwei Zhang (David)
-< img align="left" width="100" height="100" src="https://github.com/GengDavid/gengdavid.github.io/blob/main/zgw_pic.png">
+<img align="left" width="100" height="120" src="https://github.com/GengDavid/gengdavid.github.io/blob/main/zgw_pic.png">  
+
 Ph.D. student  
 Faculty of Engineering & IT  
 University of Technology Sydney  
