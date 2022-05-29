@@ -44,7 +44,7 @@ Please refer to my [Google scholar](https://scholar.google.com/citations?user=Yc
 
 **AutoML + Detection**
 
-- Peidong Liu*, **Gengwei Zhang***, Bochao Wang, Hang Xu, Xiaodan Liang, Yong Jiang, Zhenguo Li.  
+- Peidong Liu\*, **Gengwei Zhang\***, Bochao Wang, Hang Xu, Xiaodan Liang, Yong Jiang, Zhenguo Li.  
   ”Loss Function Discovery for Object Detection via Convergence-Simulation Driven Search.”
   International Conference on Learning Representations (ICLR), 2021.
 
@@ -55,4 +55,8 @@ Xiaodan Liang
   ”Continual Object Detection via Prototypical Task Correlation Guided Gating Mechanism.”  
   Conference on Computer Vision and Pattern Recognition (CVPR), 2022
 
+**Graph Reasoning + Segmentation**
 
+- Yangxin Wu\*, **Gengwei Zhang\***, Yiming Gao, Xiajun Deng, Ke Gong, Xiaodan Liang, Liang Lin.
+  ”Bidirectional Graph Reasoning Network for Panoptic Segmentation.”
+  Conference on Computer Vision and Pattern Recognition (CVPR), 2020
