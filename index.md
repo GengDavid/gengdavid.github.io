@@ -20,7 +20,7 @@ My current research interests are in Computer Vision and improving vision models
 
 
 ## News
-[2022.12] One paper "Mask Matching Transformer for Few-Shot Segmentation" is accepted by NeurIPS 2022 and the code is available [here](https://github.com/jiaosiyu1999/mmformer).
+[2022.12] One paper "Mask Matching Transformer for Few-Shot Segmentation" is accepted by NeurIPS 2022 and the code is available [here](https://github.com/jiaosiyu1999/mmformer).  
 [2021.12] One paper "Few-Shot Segmentation via Cycle-Consistent Transformer" is accepted by NeurIPS 2021 and the code is available [here](https://github.com/YanFangCS/CyCTR-Pytorch). 
 
 ## Publications
@@ -29,9 +29,9 @@ Please refer to my [Google scholar](https://scholar.google.com/citations?user=Yc
 
 **Few-shot Learning + Segmentation**
 
-- Siyu Jiao, **Gengwei Zhang**, Shant Navasardyan, Ling Chen, Yao Zhao, Yunchao Wei, Humphrey Shi.
-  "Mask Matching Transformer for Few-Shot Segmentation."
-  Conference on Neural Information Processing Systems (NeurIPS), 2022
+- Siyu Jiao, **Gengwei Zhang**, Shant Navasardyan, Ling Chen, Yao Zhao, Yunchao Wei, Humphrey Shi.  
+  "Mask Matching Transformer for Few-Shot Segmentation."  
+  Conference on Neural Information Processing Systems (NeurIPS), 2022. 
 
 - **Gengwei Zhang**, Guoliang Kang, Yi Yang, Yunchao Wei.  
   ”Few-Shot Segmentation via Cycle-Consistent Transformer.”  
