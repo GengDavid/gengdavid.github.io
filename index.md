@@ -9,7 +9,7 @@ layout: default
  Faculty of Engineering & IT  
  University of Technology Sydney  
  Email: zgwdavid AT gmail.com (**prefered**); gengwei.zhang AT student.uts.edu.au  
- [[GitHub]](https://github.com/GengDavid) [[Google scholar]](https://scholar.google.com/citations?user=YcikIekAAAAJ&hl=en)
+ [[GitHub]](https://github.com/GengDavid) [[Google scholar]](https://scholar.google.com/citations?user=YcikIekAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/david-880254142/?locale=en_US)
 
 ## About Me
 I am a Ph.D. student in the Faculty of Engineering and Information Technology at the University of Technology Sydney (UTS), supervised by Prof. [Yunchao Wei](https://weiyc.github.io/index.html) and Prof. [Ling Chen
