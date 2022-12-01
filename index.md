@@ -9,11 +9,11 @@ layout: default
  Faculty of Engineering & IT  
  University of Technology Sydney  
  Email: zgwdavid AT gmail.com (**prefered**); gengwei.zhang AT student.uts.edu.au  
- [[Github]](https://github.com/GengDavid) [[Google scholar]](https://scholar.google.com/citations?user=YcikIekAAAAJ&hl=en)
+ [[GitHub]](https://github.com/GengDavid) [[Google scholar]](https://scholar.google.com/citations?user=YcikIekAAAAJ&hl=en)
 
 ## About Me
-I am a Ph.D. student in the Faculty of Engineering and Information Technology at the University of Technology Sydney, supervised by Prof. [Yunchao Wei](https://weiyc.github.io/index.html) and Prof. [Ling Chen
-](https://profiles.uts.edu.au/Ling.Chen). I received my bachelor's degree in School of Data and Computer Science (currently School of Computer Science and Engineering) from Sun Yat-Sen University. Before UTS, I spent a wonderful year working with Prof. [Xiaodan Liang](https://lemondan.github.io/) at Sun Yat-Sen University as a research assistant.  
+I am a Ph.D. student in the Faculty of Engineering and Information Technology at the University of Technology Sydney (UTS), supervised by Prof. [Yunchao Wei](https://weiyc.github.io/index.html) and Prof. [Ling Chen
+](https://profiles.uts.edu.au/Ling.Chen). I received my bachelor's degree in School of Data and Computer Science (currently School of Computer Science and Engineering) from Sun Yat-Sen University (SYSU). Before UTS, I spent a wonderful year working with Prof. [Xiaodan Liang](https://lemondan.github.io/) at SYSU as a research assistant.  
 My current research interests are in Computer Vision and improving vision models with advanced Machine Learning algorithms, such as Automated Machine Learning, Few-shot Learning  and Continual Learning. Specifically, I have recently worked in:
 - Computer Vision: Object detection, Segmentation and Human pose estimation
 - Machine Learning: Self-supervised pre-training, Continual learning, Few-shot learning, Weakly-supervised learning and Automated machine learning.
