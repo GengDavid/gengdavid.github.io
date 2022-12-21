@@ -9,7 +9,7 @@ layout: default
  Faculty of Engineering & IT  
  University of Technology Sydney  
  Email: zgwdavid AT gmail.com (**prefered**); gengwei.zhang AT student.uts.edu.au  
-[<img src="./google-scholar.png" height="25px">](https://scholar.google.com/citations?user=YcikIekAAAAJ&hl=en)[<img src="./github.png" height="25px">](https://github.com/GengDavid)[<img src="./linkedin.png" height="25px">](https://www.linkedin.com/in/david-880254142/?locale=en_US)
+[<img src="./google-scholar.png" height="22px">](https://scholar.google.com/citations?user=YcikIekAAAAJ&hl=en)[<img src="./github.png" height="22px">](https://github.com/GengDavid)[<img src="./linkedin.png" height="22px">](https://www.linkedin.com/in/david-880254142/?locale=en_US)
 <!--  [[GitHub]](https://github.com/GengDavid) [[Google scholar]](https://scholar.google.com/citations?user=YcikIekAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/david-880254142/?locale=en_US) -->
 
 ## About Me
