@@ -21,7 +21,7 @@ My current research interests are in Computer Vision and improving vision models
 
 
 ## News
-[2023.07] Our paper "SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model", and the code is available [here](https://github.com/GengDavid/SLCA).  
+[2023.07] Our paper "SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model" has been accepted by ICCV 2023, and the code is available [here](https://github.com/GengDavid/SLCA).  
 [2022.12] Our paper "Mask Matching Transformer for Few-Shot Segmentation" has been accepted by NeurIPS 2022, and the code is available [here](https://github.com/jiaosiyu1999/mmformer).  
 [2021.12] Our paper "Few-Shot Segmentation via Cycle-Consistent Transformer" has been accepted by NeurIPS 2021, and the code is available [here](https://github.com/YanFangCS/CyCTR-Pytorch). 
 
