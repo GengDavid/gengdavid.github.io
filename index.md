@@ -29,6 +29,12 @@ My current research interests are in Computer Vision and improving vision models
 
 Please refer to my [Google scholar](https://scholar.google.com/citations?user=YcikIekAAAAJ&hl=en) for a full list of my publications and here are some selective publications.
 
+**Continual Learning (Image Classification)**  
+
+- **Gengwei Zhang\***, Liyuan Wang\*, Guoliang Kang, Ling Chen, and Yunchao Wei.  
+ "SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model."  
+ International Conference on Computer Vision (ICCV), 2023.  
+
 **Few-shot Learning + Segmentation**
 
 - Siyu Jiao, **Gengwei Zhang**, Shant Navasardyan, Ling Chen, Yao Zhao, Yunchao Wei, Humphrey Shi.  
