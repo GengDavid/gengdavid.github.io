@@ -6,9 +6,8 @@ layout: default
 <img align="left" width="110" height="126.5" src="zgw_pic.png" style="margin:10px 20px 0px 0px">  
 
  Postdoctoral Researcher  
- Faculty of Engineering & IT  
  Department of Computer Science  
- University of North Carolina at Chapel Hill
+ University of North Carolina at Chapel Hill  
  Email: gengweiz@cs.unc.edu  
 [<img src="./google-scholar.png" height="22px">](https://scholar.google.com/citations?user=YcikIekAAAAJ&hl=en)[<img src="./github.png" height="22px">](https://github.com/GengDavid)[<img src="./linkedin.png" height="22px">](https://www.linkedin.com/in/david-880254142/?locale=en_US)
 <!--  [[GitHub]](https://github.com/GengDavid) [[Google scholar]](https://scholar.google.com/citations?user=YcikIekAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/david-880254142/?locale=en_US) -->
