@@ -5,15 +5,16 @@ layout: default
 # Gengwei Zhang (David)
 <img align="left" width="110" height="126.5" src="zgw_pic.png" style="margin:10px 20px 0px 0px">  
 
- Ph.D. student  
+ Postdoctoral Researcher  
  Faculty of Engineering & IT  
- University of Technology Sydney  
- Email: zgwdavid AT gmail.com (**prefered**); gengwei.zhang AT student.uts.edu.au  
+ Department of Computer Science  
+ University of North Carolina at Chapel Hill
+ Email: gengweiz@cs.unc.edu  
 [<img src="./google-scholar.png" height="22px">](https://scholar.google.com/citations?user=YcikIekAAAAJ&hl=en)[<img src="./github.png" height="22px">](https://github.com/GengDavid)[<img src="./linkedin.png" height="22px">](https://www.linkedin.com/in/david-880254142/?locale=en_US)
 <!--  [[GitHub]](https://github.com/GengDavid) [[Google scholar]](https://scholar.google.com/citations?user=YcikIekAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/david-880254142/?locale=en_US) -->
 
 ## About Me
-I am a Ph.D. student in the Faculty of Engineering and Information Technology at the University of Technology Sydney (UTS), supervised by Prof. [Yunchao Wei](https://weiyc.github.io/index.html) and Prof. [Ling Chen
+I am a Postdoctoral Research Associate in the Department of Computer Science, University of North Carolina at Chapel Hill, hosted by Prof. [Tianlong Chen](https://tianlong-chen.github.io/). I obtained my Ph.D. from the Faculty of Engineering and Information Technology at the University of Technology Sydney (UTS), supervised by Prof. [Yunchao Wei](https://weiyc.github.io/index.html) and Prof. [Ling Chen
 ](https://profiles.uts.edu.au/Ling.Chen). I received my bachelor's degree in School of Data and Computer Science (currently School of Computer Science and Engineering) from Sun Yat-Sen University (SYSU). Before UTS, I spent a wonderful year working with Prof. [Xiaodan Liang](https://lemondan.github.io/) at SYSU as a research assistant.  
 My current research interests are in Computer Vision and improving vision models with advanced Machine Learning algorithms, such as Automated Machine Learning, Few-shot Learning  and Continual Learning. Specifically, I have recently worked in:
 - Computer Vision: Object detection, Segmentation and Human pose estimation
@@ -21,6 +22,10 @@ My current research interests are in Computer Vision and improving vision models
 
 
 ## News
+[2026.03] Our paper "Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models" is accepted by CVPR 2026. Find the paper [here](https://arxiv.org/abs/2604.03179).  
+[2026.03] Our paper "M4V: Multimodal Mamba for Efficient Text-to-Video Generation" is accepted by CVPR 2026. Find the paper [here](https://arxiv.org/abs/2506.10915) and code [here](https://huangjch526.github.io/M4V_project/).  
+[2025.12] I will join UNC as a postdoc.  
+[2025.11] I received my Ph.D. degree!  
 [2024.08] A substantial improvement of our SLCA is available: "[SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training]". Check it out [here](https://arxiv.org/abs/2408.08295). The [code](https://github.com/GengDavid/SLCA) is also available.  
 [2023.07] Our paper "SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model" has been accepted by ICCV 2023, and the code is available [here](https://github.com/GengDavid/SLCA).  
 [2022.12] Our paper "Mask Matching Transformer for Few-Shot Segmentation" has been accepted by NeurIPS 2022, and the code is available [here](https://github.com/jiaosiyu1999/mmformer).  
