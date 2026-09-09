@@ -1,0 +1,54 @@
+name: Gengwei Zhang
+chinese_name: 张耕维
+nickname: David
+role: Postdoctoral Researcher
+department: Department of Computer Science
+institution: University of North Carolina at Chapel Hill
+affiliation_short: UNC–Chapel Hill
+email: gengweiz@cs.unc.edu
+portrait: zgw_pic.png
+scholar_url: https://scholar.google.com/citations?user=YcikIekAAAAJ&hl=en
+github_url: https://github.com/GengDavid
+linkedin_url: https://www.linkedin.com/in/david-880254142/?locale=en_US
+biography:
+  - >-
+    I am a Postdoctoral Research Associate in the Department of Computer Science,
+    University of North Carolina at Chapel Hill, hosted by Prof.
+    <a href="https://tianlong-chen.github.io/">Tianlong Chen</a>.
+    I obtained my Ph.D. from the Faculty of Engineering and Information Technology
+    at the University of Technology Sydney (UTS), supervised by Prof.
+    <a href="https://weiyc.github.io/index.html">Yunchao Wei</a> and Prof.
+    <a href="https://profiles.uts.edu.au/Ling.Chen">Ling Chen</a>.
+  - >-
+    I received my bachelor's degree in School of Data and Computer Science
+    (currently School of Computer Science and Engineering) from Sun Yat-Sen
+    University (SYSU). Before UTS, I spent a wonderful year working with Prof.
+    <a href="https://lemondan.github.io/">Xiaodan Liang</a> at SYSU as a research assistant.
+research_summary: >-
+  My research focuses on multimodal learning, with particular interests in
+  multimodal reasoning and image and video generation. I also work on continual
+  learning and adapting pre-trained models to new tasks.
+research_directions:
+  - id: reasoning
+    title: Multimodal reasoning
+    description: Understanding and improving reasoning in multimodal models through reinforcement post-training.
+    graphic: reasoning
+  - id: generation
+    title: Visual generation
+    description: Generating images and videos with flexible and efficient generative models.
+    graphic: generation
+  - id: continual
+    title: Continual learning
+    description: Adapting pre-trained models to new tasks while retaining prior knowledge.
+    graphic: continual
+research_interests:
+  - title: Multimodal Learning
+    items:
+      - Multimodal reasoning
+      - Reinforcement post-training
+      - Image and video generation
+  - title: Continual Learning
+    items:
+      - Pre-trained model adaptation
+      - Sequential fine-tuning
+      - Knowledge retention

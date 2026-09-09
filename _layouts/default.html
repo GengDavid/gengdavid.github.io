@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title | escape }} · Multimodal Learning &amp; Computer Vision</title>
+  <meta name="description" content="{{ site.description | escape }}">
+  <meta name="theme-color" content="#f8f7f4">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ site.title | escape }}">
+  <meta property="og:description" content="{{ site.description | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ '/zgw_pic.png' | absolute_url }}">
+  <meta property="og:image:alt" content="Gengwei Zhang reading in a library">
+  <meta name="twitter:card" content="summary">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
+  {% if site.google_analytics != empty and site.google_analytics != nil %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics | escape }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', {{ site.google_analytics | jsonify }});
+  </script>
+  {% endif %}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner container">
+      <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="{{ site.data.profile.name | escape }}, home"><span class="monogram" aria-hidden="true">gz<span>.</span></span><span class="wordmark-name">{{ site.data.profile.name }}</span></a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#publications">Publications</a>
+        <a class="nav-contact" href="mailto:{{ site.data.profile.email }}">Contact {% include icon.html name='arrow-up-right' %}</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="container" tabindex="-1">{{ content }}</main>
+  <footer class="site-footer container">
+    <div><a class="footer-name" href="#main">{{ site.data.profile.name }} <span lang="zh">{{ site.data.profile.chinese_name }}</span></a><p>Multimodal learning &amp; computer vision.</p></div>
+    <div class="footer-links"><a href="mailto:{{ site.data.profile.email }}">Email {% include icon.html name='arrow-up-right' %}</a><a href="{{ site.data.profile.github_url }}">GitHub {% include icon.html name='arrow-up-right' %}</a><a href="#main">Back to top ↑</a></div>
+  </footer>
+</body>
+</html>

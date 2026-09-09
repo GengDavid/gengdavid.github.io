@@ -1,0 +1,55 @@
+{
+  "passed": true,
+  "browsers": "Chrome via Playwright",
+  "layouts": [
+    {
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "width": 360,
+      "scroll": 360
+    },
+    {
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "width": 600,
+      "scroll": 600
+    },
+    {
+      "width": 768,
+      "scroll": 768
+    },
+    {
+      "width": 800,
+      "scroll": 800
+    },
+    {
+      "width": 1024,
+      "scroll": 1024
+    },
+    {
+      "width": 1440,
+      "scroll": 1440
+    }
+  ],
+  "checks": [
+    "12 publications + 12 verified Paper links",
+    "8 news entries and native archive disclosure",
+    "all 7 filters and live status",
+    "research shortcut focus and anchor navigation",
+    "print includes every publication",
+    "no-JavaScript content and news",
+    "keyboard skip link",
+    "reduced motion",
+    "no console errors or failed requests"
+  ],
+  "screenshots": [
+    "desktop.png",
+    "desktop-first-screen.png",
+    "mobile.png",
+    "mobile-first-screen.png"
+  ]
+}

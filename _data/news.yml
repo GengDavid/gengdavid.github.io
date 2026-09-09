@@ -1,0 +1,43 @@
+- date: '2026.03'
+  kind: Publication
+  text: >-
+    Our paper <a href="https://arxiv.org/abs/2604.03179">Understanding the Role of
+    Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models</a>
+    is accepted by CVPR 2026.
+- date: '2026.03'
+  kind: Publication
+  text: >-
+    Our paper <a href="https://arxiv.org/abs/2506.10915">M4V: Multimodal Mamba for
+    Efficient Text-to-Video Generation</a> is accepted by CVPR 2026.
+    The <a href="https://huangjch526.github.io/M4V_project/">code</a> is available.
+- date: '2025.12'
+  kind: Career
+  text: I will join UNC as a postdoc.
+- date: '2025.11'
+  kind: Milestone
+  text: I received my Ph.D. degree!
+- date: '2024.08'
+  kind: Publication
+  text: >-
+    A substantial improvement of our SLCA is available:
+    <a href="https://arxiv.org/abs/2408.08295">SLCA++: Unleash the Power of
+    Sequential Fine-tuning for Continual Learning with Pre-training</a>.
+    The <a href="https://github.com/GengDavid/SLCA">code</a> is also available.
+- date: '2023.07'
+  kind: Publication
+  text: >-
+    Our paper “SLCA: Slow Learner with Classifier Alignment for Continual Learning
+    on a Pre-trained Model” has been accepted by ICCV 2023, and the
+    <a href="https://github.com/GengDavid/SLCA">code</a> is available.
+- date: '2022.12'
+  kind: Publication
+  text: >-
+    Our paper “Mask Matching Transformer for Few-Shot Segmentation” has been
+    accepted by NeurIPS 2022, and the
+    <a href="https://github.com/jiaosiyu1999/mmformer">code</a> is available.
+- date: '2021.12'
+  kind: Publication
+  text: >-
+    Our paper “Few-Shot Segmentation via Cycle-Consistent Transformer” has been
+    accepted by NeurIPS 2021, and the
+    <a href="https://github.com/YanFangCS/CyCTR-Pytorch">code</a> is available.

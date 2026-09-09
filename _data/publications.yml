@@ -1,0 +1,251 @@
+- id: hallucination-rl
+  title: Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models
+  authors:
+    - Gengwei Zhang
+    - Jie Peng
+    - Zhen Tan
+    - Mufan Qiu
+    - Hossein Nourkhiz Mahjoub
+    - Vaishnav Tadiparthi
+    - Kwonjoon Lee
+    - Yanyong Zhang
+    - Tianlong Chen
+  venue: CVPR
+  venue_full: Conference on Computer Vision and Pattern Recognition
+  year: 2026
+  category: reasoning
+  topics:
+    - Multimodal Reasoning
+    - Reinforcement Learning
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2604.03179
+- id: m4v
+  title: 'M4V: Multimodal Mamba for Efficient Text-to-Video Generation'
+  authors:
+    - Jiancheng Huang*
+    - Gengwei Zhang*
+    - Zequn Jie
+    - Siyu Jiao
+    - Yinlong Qian
+    - Ling Chen
+    - Yunchao Wei
+    - Lin Ma
+  venue: CVPR
+  venue_full: Conference on Computer Vision and Pattern Recognition
+  year: 2026
+  category: generation
+  topics:
+    - Video Generation
+    - Multimodal Learning
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2506.10915
+    - label: Code
+      url: https://github.com/huangjch526/M4V
+    - label: Project
+      url: https://huangjch526.github.io/M4V_project/
+- id: flexvar
+  title: 'FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction'
+  authors:
+    - Siyu Jiao
+    - Gengwei Zhang
+    - Yinlong Qian
+    - Jiancheng Huang
+    - Yao Zhao
+    - Humphrey Shi
+    - Lin Ma
+    - Yunchao Wei
+    - Zequn Jie
+  venue: NeurIPS
+  venue_full: Conference on Neural Information Processing Systems
+  year: 2025
+  category: generation
+  topics:
+    - Image Generation
+    - Autoregressive Modeling
+  links:
+    - label: Paper
+      url: https://proceedings.neurips.cc/paper_files/paper/2025/hash/0d0d75da30e2d81b928d793afe389ad4-Abstract-Conference.html
+    - label: Code
+      url: https://github.com/jiaosiyu1999/FlexVAR
+- id: slca-plus-plus
+  title: 'SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training'
+  authors:
+    - Gengwei Zhang*
+    - Liyuan Wang*
+    - Guoliang Kang
+    - Ling Chen
+    - Yunchao Wei
+  venue: Preprint
+  venue_full: arXiv preprint
+  year: 2024
+  category: continual
+  topics:
+    - Continual Learning
+    - Pre-trained Models
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2408.08295
+    - label: Code
+      url: https://github.com/GengDavid/SLCA
+- id: slca
+  title: 'SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model'
+  authors:
+    - Gengwei Zhang*
+    - Liyuan Wang*
+    - Guoliang Kang
+    - Ling Chen
+    - Yunchao Wei
+  venue: ICCV
+  venue_full: International Conference on Computer Vision
+  year: 2023
+  category: continual
+  topics:
+    - Continual Learning
+    - Image Classification
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2303.05118
+    - label: Code
+      url: https://github.com/GengDavid/SLCA
+- id: mmformer
+  title: Mask Matching Transformer for Few-Shot Segmentation
+  authors:
+    - Siyu Jiao
+    - Gengwei Zhang
+    - Shant Navasardyan
+    - Ling Chen
+    - Yao Zhao
+    - Yunchao Wei
+    - Humphrey Shi
+  venue: NeurIPS
+  venue_full: Conference on Neural Information Processing Systems
+  year: 2022
+  category: few-shot
+  topics:
+    - Few-shot Learning
+    - Segmentation
+  links:
+    - label: Paper
+      url: https://proceedings.neurips.cc/paper_files/paper/2022/hash/053a18c03e0844d0c484ba2861f8ae6c-Abstract-Conference.html
+    - label: Code
+      url: https://github.com/jiaosiyu1999/mmformer
+- id: cyctr
+  title: Few-Shot Segmentation via Cycle-Consistent Transformer
+  authors:
+    - Gengwei Zhang
+    - Guoliang Kang
+    - Yi Yang
+    - Yunchao Wei
+  venue: NeurIPS
+  venue_full: Conference on Neural Information Processing Systems
+  year: 2021
+  category: few-shot
+  topics:
+    - Few-shot Learning
+    - Segmentation
+  links:
+    - label: Paper
+      url: https://proceedings.neurips.cc/paper_files/paper/2021/hash/b8b12f949378552c21f28deff8ba8eb6-Abstract.html
+    - label: Code
+      url: https://github.com/YanFangCS/CyCTR-Pytorch
+- id: ada-segment
+  title: 'Ada-Segment: Automated Multi-loss Adaptation for Panoptic Segmentation'
+  authors:
+    - Gengwei Zhang
+    - Yiming Gao
+    - Hang Xu
+    - Hao Zhang
+    - Zhenguo Li
+    - Xiaodan Liang
+  venue: AAAI
+  venue_full: Association for the Advancement of Artificial Intelligence
+  year: 2021
+  category: automl
+  topics:
+    - AutoML
+    - Segmentation
+  links:
+    - label: Paper
+      url: https://ojs.aaai.org/index.php/AAAI/article/view/16445
+- id: auto-panoptic
+  title: 'Auto-Panoptic: Cooperative Multi-Component Architecture Search for Panoptic Segmentation'
+  authors:
+    - Yangxin Wu
+    - Gengwei Zhang
+    - Hang Xu
+    - Xiaodan Liang
+    - Liang Lin
+  venue: NeurIPS
+  venue_full: Conference on Neural Information Processing Systems
+  year: 2020
+  category: automl
+  topics:
+    - AutoML
+    - Segmentation
+  links:
+    - label: Paper
+      url: https://proceedings.neurips.cc/paper/2020/hash/ec1f764517b7ffb52057af6df18142b7-Abstract.html
+- id: loss-function-discovery
+  title: Loss Function Discovery for Object Detection via Convergence-Simulation Driven Search
+  authors:
+    - Peidong Liu*
+    - Gengwei Zhang*
+    - Bochao Wang
+    - Hang Xu
+    - Xiaodan Liang
+    - Yong Jiang
+    - Zhenguo Li
+  venue: ICLR
+  venue_full: International Conference on Learning Representations
+  year: 2021
+  category: automl
+  topics:
+    - AutoML
+    - Object Detection
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2102.04700
+- id: continual-object-detection
+  title: Continual Object Detection via Prototypical Task Correlation Guided Gating Mechanism
+  authors:
+    - Binbin Yang
+    - Xinchi Deng
+    - Han Shi
+    - Changlin Li
+    - Gengwei Zhang
+    - Hang Xu
+    - Shen Zhao
+    - Liang Lin
+    - Xiaodan Liang
+  venue: CVPR
+  venue_full: Conference on Computer Vision and Pattern Recognition
+  year: 2022
+  category: continual
+  topics:
+    - Continual Learning
+    - Object Detection
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2205.03055
+- id: bidirectional-graph
+  title: Bidirectional Graph Reasoning Network for Panoptic Segmentation
+  authors:
+    - Yangxin Wu*
+    - Gengwei Zhang*
+    - Yiming Gao
+    - Xiajun Deng
+    - Ke Gong
+    - Xiaodan Liang
+    - Liang Lin
+  venue: CVPR
+  venue_full: Conference on Computer Vision and Pattern Recognition
+  year: 2020
+  category: graph
+  topics:
+    - Graph Reasoning
+    - Segmentation
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2004.06272
