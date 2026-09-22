@@ -1,5 +1,9 @@
 # Redesign verification
 
+The monochrome revision was checked on 2026-09-22 using Jekyll 3.10.0 and Chromium 153 through Playwright 1.58.2. The strict safe-mode build passed. Computed styles confirmed neutral text and surface colors; widths 320, 360, 390, 600, 768, 800, 1024, and 1440 had no horizontal overflow. All 12 publications, 8 news entries, 7 filters, research shortcuts, keyboard focus, reduced motion, printing, and JavaScript-disabled reading passed. The About Me title and caption-free portrait were retained. Current screenshots and `previews/verification.json` describe this revision.
+
+## Original content and structure verification
+
 Validated on 2026-09-09 using Jekyll 3.10.0 and local Google Chrome through Playwright 1.58.2.
 
 - Production build with strict front matter: passed.

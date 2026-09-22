@@ -1,6 +1,7 @@
 {
+  "date": "2026-09-22",
   "passed": true,
-  "browsers": "Chrome via Playwright",
+  "browser": "153.0.8010.0",
   "layouts": [
     {
       "width": 320,
@@ -36,20 +37,16 @@
     }
   ],
   "checks": [
-    "12 publications + 12 verified Paper links",
-    "8 news entries and native archive disclosure",
-    "all 7 filters and live status",
-    "research shortcut focus and anchor navigation",
-    "print includes every publication",
-    "no-JavaScript content and news",
-    "keyboard skip link",
+    "monochrome computed colors",
+    "12 publications and 8 news entries",
+    "About Me heading and no photo caption",
+    "7 topic filters",
+    "research navigation and keyboard focus",
+    "news archive",
+    "print includes all publications",
+    "no-JavaScript content",
+    "skip link",
     "reduced motion",
-    "no console errors or failed requests"
-  ],
-  "screenshots": [
-    "desktop.png",
-    "desktop-first-screen.png",
-    "mobile.png",
-    "mobile-first-screen.png"
+    "no local asset or JavaScript errors"
   ]
 }

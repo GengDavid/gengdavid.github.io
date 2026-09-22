@@ -4,7 +4,7 @@ layout: default
 {% assign profile = site.data.profile %}
 <section class="hero" aria-labelledby="profile-name">
   <div class="hero-copy">
-    <p class="eyebrow"><span class="eyebrow-line"></span> Multimodal learning &amp; computer vision</p>
+    <p class="eyebrow">Multimodal learning &amp; computer vision</p>
     <h1 id="profile-name">{{ profile.name }}</h1>
     <p class="alternate-name"><span lang="zh">{{ profile.chinese_name }}</span><span class="name-divider">/</span>{{ profile.nickname }}</p>
     <div class="hero-affiliation">
@@ -25,13 +25,13 @@ layout: default
 
 <div class="overview-grid">
   <section id="about" class="about-section" aria-labelledby="about-heading">
-    <div class="section-heading"><span class="section-number">01 /</span><h2 id="about-heading">About Me</h2></div>
+    <div class="section-heading"><h2 id="about-heading">About Me</h2></div>
     <div class="biography">{% for paragraph in profile.biography %}<p>{{ paragraph }}</p>{% endfor %}</div>
     <div class="research-summary"><p>{{ profile.research_summary }}</p></div>
     <a class="text-link" href="#publications">Explore my publications {% include icon.html name='arrow-down' %}</a>
   </section>
   <aside id="news" class="news-panel" aria-labelledby="news-heading">
-    <div class="news-heading"><h2 id="news-heading">Latest updates</h2><span class="news-dot" aria-hidden="true"></span></div>
+    <div class="news-heading"><h2 id="news-heading">Latest updates</h2></div>
     <ol class="news-list">
       {% for item in site.data.news limit:4 %}
       <li><time datetime="{{ item.date | replace: '.', '-' }}">{{ item.date }}</time><div>{{ item.text }}</div></li>
@@ -51,12 +51,12 @@ layout: default
 </div>
 
 <section id="research" class="research-section" aria-labelledby="research-heading">
-  <div class="section-heading"><span class="section-number">02 /</span><h2 id="research-heading">Research directions</h2></div>
+  <div class="section-heading"><h2 id="research-heading">Research directions</h2></div>
   <p class="section-intro">Reasoning, generating, and learning across tasks.</p>
   <div class="research-grid">
     {% for direction in profile.research_directions %}
     <a class="research-card" href="#publications" data-research-filter="{{ direction.id }}">
-      <div class="research-card-top"><span>0{{ forloop.index }}</span>{% include icon.html name='arrow-up-right' %}</div>
+      <div class="research-card-top">{% include icon.html name='arrow-up-right' %}</div>
       {% include research-graphic.html type=direction.graphic %}
       <h3>{{ direction.title }}</h3><p>{{ direction.description }}</p><span class="card-link">Explore publications {% include icon.html name='arrow-right' %}</span>
     </a>
@@ -67,7 +67,7 @@ layout: default
 
 <section id="publications" class="publications-section" aria-labelledby="publications-heading">
   <div class="section-heading-row">
-    <div class="section-heading"><span class="section-number">03 /</span><h2 id="publications-heading">Selected publications</h2></div>
+    <div class="section-heading"><h2 id="publications-heading">Selected publications</h2></div>
     <a class="text-link scholar-link" href="{{ profile.scholar_url }}">Full list on Google Scholar {% include icon.html name='arrow-up-right' %}</a>
   </div>
   <div class="publication-toolbar" hidden>

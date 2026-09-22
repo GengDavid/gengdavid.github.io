@@ -2,6 +2,8 @@
 
 面向 GitHub Pages 的自定义 Jekyll 学术主页。使用本地 CSS、原生 JavaScript 和系统字体，无远程主题、Node 构建步骤或运行时内容请求。
 
+视觉采用白底、黑色文字和灰色细线，统一无衬线字体。简介与新闻、研究方向和论文保留分栏组织；字体层级与装饰取舍参考 [Jon Barron 的学术主页](https://jonbarron.info/)，未引入外部模板。
+
 预览：[桌面完整页面](docs/previews/desktop.png) · [手机首屏](docs/previews/mobile-first-screen.png) · [手机完整页面](docs/previews/mobile.png)。构建与浏览器验证记录见 [docs/verification.md](docs/verification.md)。
 
 ## 内容维护
